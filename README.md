@@ -8,3 +8,6 @@ to install packages type in a new cmd      npm install coinkey
 paste the addresses into the riches.txt file (i have included a few with a balance)
 ![image](https://user-images.githubusercontent.com/86496926/165112325-03836b63-9d77-477e-b2a2-8fb7c63d2f8a.png)
 
+the seeds that get found will automatically be saved to a file that will be crated upon sucsess
+
+
